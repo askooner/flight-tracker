@@ -16,7 +16,7 @@ FLIGHT_CONFIG = {
 
     # Passengers and bags
     "adults": 1,
-    "bags": 1,                 # Number of carry-on bags (included in price)
+    "bags": 0,                 # Checked bags (0 = carry-on only, which is usually included)
 }
 
 # How often to check prices (in hours)
