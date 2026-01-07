@@ -11,8 +11,8 @@ FLIGHT_CONFIG = {
     "destination": "YVR",      # Vancouver International
 
     # Travel dates (YYYY-MM-DD format)
-    "departure_date": "2025-07-29",
-    "return_date": "2025-08-05",
+    "departure_date": "2026-07-29",
+    "return_date": "2026-08-05",
 
     # Passengers and bags
     "adults": 1,
